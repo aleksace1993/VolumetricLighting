@@ -1,0 +1,43 @@
+﻿  VolumeLightTest.cpp
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(593): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(616): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(623): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(630): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(640): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(649): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(657): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(665): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(673): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(681): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(697): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(713): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(721): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(728): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(738): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(747): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(755): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(763): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(771): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(779): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(815): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(824): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(824): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(844): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(844): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(1057): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(1069): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(1082): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(1099): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(1115): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(1129): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(1143): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(1158): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(1173): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(1188): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\a_fla\onedrive\documents\visual studio 2015\projects\volumelighttest\volumelighttest\volumelighttest.cpp(1214): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Generating code
+  0 of 814 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  VolumeLightTest.vcxproj -> C:\Users\a_fla\OneDrive\Documents\Visual Studio 2015\Projects\VolumeLightTest\x64\Release\VolumeLightTest.exe
